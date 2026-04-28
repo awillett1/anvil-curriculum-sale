@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AnandChowdhary//calendar-link//EN
+BEGIN:VEVENT
+DTSTART:20260610T140000Z
+DTEND:20260610T180000Z
+DTSTAMP:20260428T010613Z
+SUMMARY:Anvil Curriculum Sale
+DESCRIPTION:We invite you to participate in the first ever curriculum and book sale! Come donate or sell your used curriculum, books of all types, educational toys/games, and school-related supplies. We hope to engage with our community and support our school with this event. An invitation will be extended to the greater homeschool community, but selling will be reserved for Anvil families.\n\nThe book sale will be held on Wednesday, June 10, 2026 at the Anvil Cumming campus from 10 am - 2 pm. A drop-off and pick-up window for items will be announced closer to the sale. If you cannot attend but want to take part, please feel free to send your items with a friend!\n\nFor more information, please visit: https://bit.ly/anvil-sale
+LOCATION:The Anvil Academy, 7591 Campground Rd, Cumming, GA 30040
+UID:87257
+END:VEVENT
+END:VCALENDAR
